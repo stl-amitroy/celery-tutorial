@@ -1,4 +1,6 @@
 # README
+### Requirements
+1. RabbitMQ
 
 ### Run
 ```
